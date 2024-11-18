@@ -71,7 +71,7 @@ export function Features() {
         >
           Access your learning materials on the go. Whether you&apos;re
           commuting, waiting for a friend, or just have a few minutes to spare,
-          our app fits seamlessly into your busy life.
+          our app fits seamlessly into your busy life..
         </Typography>
       </div>
       <div className="container mx-auto grid max-w-6xl grid-cols-1 gap-4 gap-y-12 md:grid-cols-2">
